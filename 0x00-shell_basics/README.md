@@ -1,1 +1,1 @@
-displaying content list of your directory
+script that creates the directories welcome
