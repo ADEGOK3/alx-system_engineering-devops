@@ -1,1 +1,1 @@
-script that prints Hello, World followed by new line to the standard output
+shell script that creates a file name containing the text Best School
