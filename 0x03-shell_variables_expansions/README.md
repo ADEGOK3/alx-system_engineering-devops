@@ -1,1 +1,1 @@
-script that prints hello user, where user is the current linux user
+script that creates an alias Name: ls, Value: rm
