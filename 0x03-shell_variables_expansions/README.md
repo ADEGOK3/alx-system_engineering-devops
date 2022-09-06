@@ -1,1 +1,1 @@
-script that creates an alias Name: ls, Value: rm
+script that creates an alias
